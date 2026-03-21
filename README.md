@@ -275,17 +275,6 @@ GOOGLE_LOGIN_PASSWORD=GOOGLE_
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Login Page
-  ![Screenshot 2026-03-20 171315.png](../OneDrive%20-%20Info%20Origin%20Technologies%20Pvt%20Ltd/Pictures/Screenshots/Screenshot%202026-03-20%20171315.png)
-* Dashboard
-  ![Screenshot 2026-03-21 180540.png](../OneDrive%20-%20Info%20Origin%20Technologies%20Pvt%20Ltd/Pictures/Screenshots/Screenshot%202026-03-21%20180540.png)
-
----
-
 
 ## ⚠️ Challenges Faced
 
