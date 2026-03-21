@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.input {
+    @apply w-full p-3 rounded-xl bg-white/20 text-white placeholder-white/70
+    focus:outline-none focus:ring-2 focus:ring-white;
+}
+
+.btn-primary {
+    @apply w-full py-3 rounded-xl bg-white text-purple-700 font-semibold;
+}
+
+.btn-google {
+    @apply w-full py-3 rounded-xl bg-red-500 text-white font-semibold;
+}
