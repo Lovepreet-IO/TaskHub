@@ -1,0 +1,17 @@
+import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+
+const useAuthRedirect = () => {
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        const accessToken = localStorage.getItem("access_token");
+        const refreshToken = localStorage.getItem("refresh_token");
+
+        if (accessToken && refreshToken) {
+            navigate("/dashboard");
+        }
+    }, [navigate]);
+};
+
+export default useAuthRedirect;
