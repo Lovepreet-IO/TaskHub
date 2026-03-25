@@ -294,6 +294,18 @@ GOOGLE_LOGIN_PASSWORD=GOOGLE_
 
 ---
 
+
+## 🔍 Code Flow & Pseudocode
+
+Add screenshots of:
+
+* Login Page
+* Dashboard!
+* [Dashbaord.png](Screenshots/Dashbaord.png)
+<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Dashbaord.png" alt="Dashboard UI" width="600"/>
+
+---
+
 ## 👤 Author
 
 **Lovepreet Singh**  
