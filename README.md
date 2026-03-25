@@ -147,9 +147,8 @@ User → Click Logout → POST /auth/logout → Invalidate Refresh Token (server
 cd Backend
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install uv
-uv sync
-uv run main.py
+pip install .
+python main.py
 ```
 
 ### Frontend Setup
@@ -276,6 +275,18 @@ GOOGLE_LOGIN_PASSWORD=GOOGLE_
 ---
 
 
+## 📸 Screenshots
+
+* Login Page
+<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Login.png" alt="Dashboard UI" width="600"/>
+* Dashboard
+<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Dashbaord.png" alt="Dashboard UI" width="600"/>
+* Register
+<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Register.png" alt="Dashboard UI" width="600"/>
+
+---
+
+
 ## ⚠️ Challenges Faced
 
 * Handling JWT authentication
@@ -287,23 +298,9 @@ GOOGLE_LOGIN_PASSWORD=GOOGLE_
 
 ## 🔮 Future Improvements
 
-* Role-based access control
 * Notifications system
 * Real-time updates
 * Deployment (Docker, AWS)
-
----
-
-
-## 📸 Screenshots
-
-* Login Page
-<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Login.png" alt="Dashboard UI" width="600"/>
-* Dashboard
-<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Dashbaord.png" alt="Dashboard UI" width="600"/>
-* Register
-<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Register.png" alt="Dashboard UI" width="600"/>
-
 
 ---
 
