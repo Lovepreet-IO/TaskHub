@@ -302,7 +302,7 @@ Add screenshots of:
 * Login Page
 * Dashboard!
 * [[Dashbaord.png](Screenshots/Dashbaord.png)](https://raw.githubusercontent.com/Lovepreet-IO/TaskHub/refs/heads/main/Screenshots/Dashbaord.png)
-<img src="https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Dashbaord.png" alt="Dashboard UI" width="600"/>
+<img src="[https://github.com/Lovepreet-IO/TaskHub/blob/main/Screenshots/Dashbaord.png](https://raw.githubusercontent.com/Lovepreet-IO/TaskHub/refs/heads/main/Screenshots/Dashbaord.png)" alt="Dashboard UI" width="600"/>
 
 ---
 
