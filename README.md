@@ -36,15 +36,15 @@ TaskHub is a company-grade task management system that allows admins to create, 
 
 | Feature | Description |
 |---|---|
-| 🔐 JWT Authentication | Access + Refresh token pair with secure invalidation |
-| 🔑 Google OAuth | One-click sign-in via Google |
-| 👤 User Profiles | Role-based user management (Admin / Employee) |
-| 📊 Dashboard | Overview of tasks, statuses, and priorities |
-| ✅ Task Management | Create, assign, update, and soft-delete tasks |
-| 💬 Task Comments | Comment threads per task |
-| 📝 Task Logs | Full audit log of every task action |
-| 🔒 Protected Routes | Route guards based on authentication state |
-| 🚪 Logout | Token invalidation + local storage clearing |
+| JWT Authentication | Access + Refresh token pair with secure invalidation |
+| Google OAuth | One-click sign-in via Google |
+| User Profiles | Role-based user management (Admin / Employee) |
+| Dashboard | Overview of tasks, statuses, and priorities |
+| Task Management | Create, assign, update, and soft-delete tasks |
+| Task Comments | Comment threads per task |
+| Task Logs | Full audit log of every task action |
+| Protected Routes | Route guards based on authentication state |
+| Logout | Token invalidation + local storage clearing |
 
 ---
 
