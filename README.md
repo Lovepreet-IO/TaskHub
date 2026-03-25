@@ -439,8 +439,7 @@ Frontend: pages/auth/HomePage.tsx
 
       hashed = hash_password(password) 
       db.query(
-          first_name = data.first_name,
-          last_name  = data.last_name,
+          name       = data.first_name + data.last_name
           email      = data.email,
           username   = data.username,
           password   = hashed,
